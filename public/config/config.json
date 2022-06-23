@@ -2,15 +2,15 @@
   "CONTRACT_ADDRESS": "0xcf277c00bd4b2f5b6aefc97ac7945042dfd4f8fc",
   "SCAN_LINK": "https://mumbai.polygonscan.com/address/0xcf277c00bd4b2f5b6aefc97ac7945042dfd4f8fc",
   "NETWORK": {
-    "NAME": "Polygon",
-    "SYMBOL": "Matic",
-    "ID": 137
+    "NAME": "Matic Mumbai",
+    "SYMBOL": "Eth",
+    "ID": 80001
   },
   "NFT_NAME": "Robots Test",
   "SYMBOL": "RBTST",
   "MAX_SUPPLY": 25,
   "WEI_COST": 4000000000000000000,
-  "DISPLAY_COST": 4,
+  "DISPLAY_COST": 0.03,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
   "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/robot-test-v2-1",
